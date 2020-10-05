@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136" started-at="2020-10-05T12:09:39Z" finished-at="2020-10-05T12:09:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136" started-at="2020-10-05T12:09:39Z" finished-at="2020-10-05T12:09:39Z">
+      <class name="TestNG.Selenium.MyFirstTest">
+        <test-method status="PASS" signature="validateLoginforBusiness()[pri:0, instance:TestNG.Selenium.MyFirstTest@c540f5a]" name="validateLoginforBusiness" duration-ms="14" started-at="2020-10-05T12:09:39Z" finished-at="2020-10-05T12:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginforBusiness -->
+        <test-method status="PASS" signature="validateLoginforRetail()[pri:0, instance:TestNG.Selenium.MyFirstTest@c540f5a]" name="validateLoginforRetail" duration-ms="2" started-at="2020-10-05T12:09:39Z" finished-at="2020-10-05T12:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginforRetail -->
+      </class> <!-- TestNG.Selenium.MyFirstTest -->
+      <class name="TestNG.Selenium.MySecondTest">
+        <test-method status="PASS" signature="validateLogOutinforRetail()[pri:0, instance:TestNG.Selenium.MySecondTest@770c2e6b]" name="validateLogOutinforRetail" duration-ms="1" started-at="2020-10-05T12:09:39Z" finished-at="2020-10-05T12:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogOutinforRetail -->
+        <test-method status="PASS" signature="validateLogoutforBusiness()[pri:0, instance:TestNG.Selenium.MySecondTest@770c2e6b]" name="validateLogoutforBusiness" duration-ms="1" started-at="2020-10-05T12:09:39Z" finished-at="2020-10-05T12:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoutforBusiness -->
+      </class> <!-- TestNG.Selenium.MySecondTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
