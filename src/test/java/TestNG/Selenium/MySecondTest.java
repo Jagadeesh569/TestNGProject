@@ -7,9 +7,9 @@ public class MySecondTest {
 
 	
 	@Test
-	public void validateLogOutinforRetail() {
+	public void validateLogOutforRetail() {
 		
-		System.out.println("LOG:: validateLogOutinforRetail");
+		System.out.println("LOG:: validateLogOutforRetail");
 		
 	}
 	
